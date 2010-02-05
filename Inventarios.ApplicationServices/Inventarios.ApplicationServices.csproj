@@ -50,6 +50,8 @@
   <ItemGroup>
     <Compile Include="IClienteService.cs" />
     <Compile Include="Impl\ClienteService.cs" />
+    <Compile Include="Impl\ProductoService.cs" />
+    <Compile Include="IProductoService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

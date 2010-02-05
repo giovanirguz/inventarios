@@ -43,6 +43,8 @@ namespace Inventarios.ApplicationServices.Impl
                 oldCliente = (almacenOrmDataContext.Clientes.First(x => x.NoControl == cliente.NoControl));
 
                 oldCliente.Nombre = cliente.Nombre;
+                oldCliente.ApellidoPaterno = cliente.ApellidoPaterno;
+                oldCliente.ApellidoMaterno = cliente.ApellidoMaterno;
                 oldCliente.RFC = cliente.RFC;
                 oldCliente.Direccion = cliente.Direccion;
                 oldCliente.Telefono = cliente.Telefono;

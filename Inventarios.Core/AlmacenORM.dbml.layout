@@ -2,10 +2,16 @@
 <ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="AlmacenORM">
   <DataContextMoniker Name="/AlmacenORMDataContext" />
   <nestedChildShapes>
-    <classShape Id="782a9fd9-0603-437e-bb17-4617355e9ead" absoluteBounds="0.875, 1.125, 2, 1.9631982421875">
+    <classShape Id="680c6824-e204-472f-b1e2-b4713110f04f" absoluteBounds="0.75, 0.75, 2, 2.0822371419270831">
       <DataClassMoniker Name="/AlmacenORMDataContext/Cliente" />
       <nestedChildShapes>
-        <elementListCompartment Id="cacf16c6-ecc6-42d2-bb5f-d84903e75c00" absoluteBounds="0.88999999999999968, 1.585, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+        <elementListCompartment Id="b43b8285-fd7d-4c80-81e9-69614bdd02dd" absoluteBounds="0.765, 1.21, 1.9700000000000002, 1.5222371419270833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0c0f6aa6-a239-4123-900f-9b9a4fe71648" absoluteBounds="3.75, 0.75, 2, 1.26050048828125">
+      <DataClassMoniker Name="/AlmacenORMDataContext/Producto" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0aade775-2d10-4ad5-b5de-b0856659f6d7" absoluteBounds="3.765, 1.21, 1.9700000000000002, 0.70050048828125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
       </nestedChildShapes>
     </classShape>
   </nestedChildShapes>

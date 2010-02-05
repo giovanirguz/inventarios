@@ -40,3 +40,4 @@ C:\Proyectos\Inventarios\Inventarios.WinForms\obj\Debug\ResolveAssemblyReference
 C:\Proyectos\Inventarios\Inventarios.WinForms\obj\Debug\Inventarios.WinForms.FrmClientes.resources
 C:\Proyectos\Inventarios\Inventarios.WinForms\obj\Debug\Inventarios.WinForms.FrmPrincipal.resources
 C:\Proyectos\Inventarios\Inventarios.WinForms\obj\Debug\Inventarios.WinForms.csproj.GenerateResource.Cache
+C:\Proyectos\Inventarios\Inventarios.WinForms\obj\Debug\Inventarios.WinForms.FrmProductos.resources

@@ -1,10 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
 using System.Windows.Forms;
 using Inventarios.ApplicationControl.Validation;
 using Inventarios.ApplicationServices;
@@ -35,6 +29,8 @@ namespace Inventarios.WinForms
                                   {
                                       NoControl = int.Parse(txtNoControl.Text),
                                       Nombre = txtNombre.Text,
+                                      ApellidoPaterno = txtApellidoPaterno.Text,
+                                      ApellidoMaterno = txtApellidoMaterno.Text,
                                       Direccion = txtDireccion.Text,
                                       RFC = txtRFC.Text,
                                       Telefono = txtTelefono.Text
@@ -64,7 +60,7 @@ namespace Inventarios.WinForms
 
             foreach (var cliente in clientes)
             {
-                lsvClientes.Items.Add(new ListViewItem(new[]{cliente.NoControl.ToString(), cliente.Nombre, cliente.RFC, cliente.Direccion, cliente.Telefono}));
+                lsvClientes.Items.Add(new ListViewItem(new[] { cliente.NoControl.ToString(), cliente.Nombre, cliente.ApellidoPaterno, cliente.ApellidoMaterno, cliente.RFC, cliente.Direccion, cliente.Telefono }));
             }
         }
 

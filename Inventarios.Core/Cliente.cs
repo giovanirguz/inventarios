@@ -20,6 +20,12 @@ namespace Inventarios.Core
             if (String.IsNullOrEmpty(Nombre))
                 yield return new RuleViolation("Nombre es requerido", "Nombre");
 
+            if (String.IsNullOrEmpty(ApellidoPaterno))
+                yield return new RuleViolation("Apellido paterno es requerido", "ApellidoPaterno");
+
+            if (String.IsNullOrEmpty(ApellidoMaterno))
+                yield return new RuleViolation("Apellido materno es requerido", "ApellidoMaterno");
+
             if (String.IsNullOrEmpty(RFC))
                 yield return new RuleViolation("RFC es requerido", "RFC");
 
