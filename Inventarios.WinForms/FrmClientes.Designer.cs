@@ -40,6 +40,11 @@
             this.lsvClientes = new System.Windows.Forms.ListView();
             this.columnHeader1 = new System.Windows.Forms.ColumnHeader();
             this.columnHeader2 = new System.Windows.Forms.ColumnHeader();
+            this.columnHeader8 = new System.Windows.Forms.ColumnHeader();
+            this.columnHeader9 = new System.Windows.Forms.ColumnHeader();
+            this.columnHeader10 = new System.Windows.Forms.ColumnHeader();
+            this.columnHeader11 = new System.Windows.Forms.ColumnHeader();
+            this.columnHeader12 = new System.Windows.Forms.ColumnHeader();
             this.gpbAlta = new System.Windows.Forms.GroupBox();
             this.txtApellidoMaterno = new System.Windows.Forms.TextBox();
             this.label8 = new System.Windows.Forms.Label();
@@ -55,11 +60,6 @@
             this.txtTelefono = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
-            this.columnHeader8 = new System.Windows.Forms.ColumnHeader();
-            this.columnHeader9 = new System.Windows.Forms.ColumnHeader();
-            this.columnHeader10 = new System.Windows.Forms.ColumnHeader();
-            this.columnHeader11 = new System.Windows.Forms.ColumnHeader();
-            this.columnHeader12 = new System.Windows.Forms.ColumnHeader();
             this.tlsBarraMenu.SuspendLayout();
             this.gpbBusqueda.SuspendLayout();
             this.gpbAlta.SuspendLayout();
@@ -198,6 +198,29 @@
             // 
             this.columnHeader2.Text = "Nombre";
             this.columnHeader2.Width = 89;
+            // 
+            // columnHeader8
+            // 
+            this.columnHeader8.Text = "Apellido Paterno";
+            this.columnHeader8.Width = 100;
+            // 
+            // columnHeader9
+            // 
+            this.columnHeader9.Text = "Apellido Materno";
+            this.columnHeader9.Width = 100;
+            // 
+            // columnHeader10
+            // 
+            this.columnHeader10.Text = "R.F.C.";
+            // 
+            // columnHeader11
+            // 
+            this.columnHeader11.Text = "Direccion";
+            this.columnHeader11.Width = 100;
+            // 
+            // columnHeader12
+            // 
+            this.columnHeader12.Text = "Telefono";
             // 
             // gpbAlta
             // 
@@ -353,37 +376,14 @@
             this.label1.TabIndex = 20;
             this.label1.Text = "Nombre";
             // 
-            // columnHeader8
-            // 
-            this.columnHeader8.Text = "Apellido Paterno";
-            this.columnHeader8.Width = 100;
-            // 
-            // columnHeader9
-            // 
-            this.columnHeader9.Text = "Apellido Materno";
-            this.columnHeader9.Width = 100;
-            // 
-            // columnHeader10
-            // 
-            this.columnHeader10.Text = "R.F.C.";
-            // 
-            // columnHeader11
-            // 
-            this.columnHeader11.Text = "Direccion";
-            this.columnHeader11.Width = 100;
-            // 
-            // columnHeader12
-            // 
-            this.columnHeader12.Text = "Telefono";
-            // 
             // FrmClientes
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(569, 424);
-            this.Controls.Add(this.gpbBusqueda);
             this.Controls.Add(this.tlsBarraMenu);
             this.Controls.Add(this.gpbAlta);
+            this.Controls.Add(this.gpbBusqueda);
             this.MinimumSize = new System.Drawing.Size(577, 458);
             this.Name = "FrmClientes";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
