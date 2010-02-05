@@ -1,0 +1,14 @@
+C:\Users\Owner\Documents\Visual Studio 2008\Projects\Inventarios\Inventarios.WinForms\bin\Debug\Inventarios.WinForms.exe
+C:\Users\Owner\Documents\Visual Studio 2008\Projects\Inventarios\Inventarios.WinForms\bin\Debug\Inventarios.WinForms.pdb
+C:\Users\Owner\Documents\Visual Studio 2008\Projects\Inventarios\Inventarios.WinForms\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2008\Projects\Inventarios\Inventarios.WinForms\obj\Debug\Inventarios.WinForms.csproj.GenerateResource.Cache
+C:\Users\Owner\Documents\Visual Studio 2008\Projects\Inventarios\Inventarios.WinForms\obj\Debug\Inventarios.WinForms.exe
+C:\Users\Owner\Documents\Visual Studio 2008\Projects\Inventarios\Inventarios.WinForms\obj\Debug\Inventarios.WinForms.pdb
+C:\Users\Owner\Documents\Visual Studio 2008\Projects\Inventarios\Inventarios.WinForms\bin\Debug\Inventarios.ApplicationServices.dll
+C:\Users\Owner\Documents\Visual Studio 2008\Projects\Inventarios\Inventarios.WinForms\bin\Debug\Inventarios.Core.dll
+C:\Users\Owner\Documents\Visual Studio 2008\Projects\Inventarios\Inventarios.WinForms\bin\Debug\Inventarios.Core.pdb
+C:\Users\Owner\Documents\Visual Studio 2008\Projects\Inventarios\Inventarios.WinForms\bin\Debug\Inventarios.ApplicationServices.pdb
+C:\Users\Owner\Documents\Visual Studio 2008\Projects\Inventarios\Inventarios.WinForms\obj\Debug\Inventarios.WinForms.FrmClientes.resources
+C:\Users\Owner\Documents\Visual Studio 2008\Projects\Inventarios\Inventarios.WinForms\obj\Debug\Inventarios.WinForms.FrmPrincipal.resources
+C:\Users\Owner\Documents\Visual Studio 2008\Projects\Inventarios\Inventarios.WinForms\bin\Debug\Inventarios.ApplicationControl.dll
+C:\Users\Owner\Documents\Visual Studio 2008\Projects\Inventarios\Inventarios.WinForms\bin\Debug\Inventarios.ApplicationControl.pdb

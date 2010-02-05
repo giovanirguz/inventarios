@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\Visual Studio 2008\Projects\Inventarios\Inventarios.ApplicationControl\bin\Debug\Inventarios.ApplicationControl.dll
+C:\Users\Owner\Documents\Visual Studio 2008\Projects\Inventarios\Inventarios.ApplicationControl\bin\Debug\Inventarios.ApplicationControl.pdb
+C:\Users\Owner\Documents\Visual Studio 2008\Projects\Inventarios\Inventarios.ApplicationControl\bin\Debug\Inventarios.Core.dll
+C:\Users\Owner\Documents\Visual Studio 2008\Projects\Inventarios\Inventarios.ApplicationControl\bin\Debug\Inventarios.Core.pdb
+C:\Users\Owner\Documents\Visual Studio 2008\Projects\Inventarios\Inventarios.ApplicationControl\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2008\Projects\Inventarios\Inventarios.ApplicationControl\obj\Debug\Inventarios.ApplicationControl.dll
+C:\Users\Owner\Documents\Visual Studio 2008\Projects\Inventarios\Inventarios.ApplicationControl\obj\Debug\Inventarios.ApplicationControl.pdb
