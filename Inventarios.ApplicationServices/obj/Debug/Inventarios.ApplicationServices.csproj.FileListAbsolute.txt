@@ -12,3 +12,10 @@ C:\Net\Projects\Inventarios\Inventarios.ApplicationServices\bin\Debug\Inventario
 C:\Net\Projects\Inventarios\Inventarios.ApplicationServices\obj\Debug\ResolveAssemblyReference.cache
 C:\Net\Projects\Inventarios\Inventarios.ApplicationServices\obj\Debug\Inventarios.ApplicationServices.dll
 C:\Net\Projects\Inventarios\Inventarios.ApplicationServices\obj\Debug\Inventarios.ApplicationServices.pdb
+C:\Proyectos\Inventarios\Inventarios.ApplicationServices\bin\Debug\Inventarios.ApplicationServices.dll
+C:\Proyectos\Inventarios\Inventarios.ApplicationServices\bin\Debug\Inventarios.ApplicationServices.pdb
+C:\Proyectos\Inventarios\Inventarios.ApplicationServices\bin\Debug\Inventarios.Core.dll
+C:\Proyectos\Inventarios\Inventarios.ApplicationServices\bin\Debug\Inventarios.Core.pdb
+C:\Proyectos\Inventarios\Inventarios.ApplicationServices\obj\Debug\ResolveAssemblyReference.cache
+C:\Proyectos\Inventarios\Inventarios.ApplicationServices\obj\Debug\Inventarios.ApplicationServices.dll
+C:\Proyectos\Inventarios\Inventarios.ApplicationServices\obj\Debug\Inventarios.ApplicationServices.pdb

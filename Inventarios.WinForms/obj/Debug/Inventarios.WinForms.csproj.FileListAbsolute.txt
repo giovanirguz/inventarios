@@ -26,3 +26,17 @@ C:\Net\Projects\Inventarios\Inventarios.WinForms\obj\Debug\ResolveAssemblyRefere
 C:\Net\Projects\Inventarios\Inventarios.WinForms\obj\Debug\Inventarios.WinForms.FrmClientes.resources
 C:\Net\Projects\Inventarios\Inventarios.WinForms\obj\Debug\Inventarios.WinForms.FrmPrincipal.resources
 C:\Net\Projects\Inventarios\Inventarios.WinForms\obj\Debug\Inventarios.WinForms.csproj.GenerateResource.Cache
+C:\Proyectos\Inventarios\Inventarios.WinForms\obj\Debug\Inventarios.WinForms.exe
+C:\Proyectos\Inventarios\Inventarios.WinForms\obj\Debug\Inventarios.WinForms.pdb
+C:\Proyectos\Inventarios\Inventarios.WinForms\bin\Debug\Inventarios.WinForms.exe
+C:\Proyectos\Inventarios\Inventarios.WinForms\bin\Debug\Inventarios.WinForms.pdb
+C:\Proyectos\Inventarios\Inventarios.WinForms\bin\Debug\Inventarios.ApplicationControl.dll
+C:\Proyectos\Inventarios\Inventarios.WinForms\bin\Debug\Inventarios.ApplicationServices.dll
+C:\Proyectos\Inventarios\Inventarios.WinForms\bin\Debug\Inventarios.Core.dll
+C:\Proyectos\Inventarios\Inventarios.WinForms\bin\Debug\Inventarios.Core.pdb
+C:\Proyectos\Inventarios\Inventarios.WinForms\bin\Debug\Inventarios.ApplicationControl.pdb
+C:\Proyectos\Inventarios\Inventarios.WinForms\bin\Debug\Inventarios.ApplicationServices.pdb
+C:\Proyectos\Inventarios\Inventarios.WinForms\obj\Debug\ResolveAssemblyReference.cache
+C:\Proyectos\Inventarios\Inventarios.WinForms\obj\Debug\Inventarios.WinForms.FrmClientes.resources
+C:\Proyectos\Inventarios\Inventarios.WinForms\obj\Debug\Inventarios.WinForms.FrmPrincipal.resources
+C:\Proyectos\Inventarios\Inventarios.WinForms\obj\Debug\Inventarios.WinForms.csproj.GenerateResource.Cache

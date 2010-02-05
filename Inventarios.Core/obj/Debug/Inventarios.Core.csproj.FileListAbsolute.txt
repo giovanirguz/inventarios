@@ -10,3 +10,9 @@ C:\Net\Projects\Inventarios\Inventarios.Core\bin\Debug\Inventarios.Core.pdb
 C:\Net\Projects\Inventarios\Inventarios.Core\obj\Debug\ResolveAssemblyReference.cache
 C:\Net\Projects\Inventarios\Inventarios.Core\obj\Debug\Inventarios.Core.dll
 C:\Net\Projects\Inventarios\Inventarios.Core\obj\Debug\Inventarios.Core.pdb
+C:\Proyectos\Inventarios\Inventarios.Core\bin\Debug\Inventarios.Core.dll.config
+C:\Proyectos\Inventarios\Inventarios.Core\bin\Debug\Inventarios.Core.dll
+C:\Proyectos\Inventarios\Inventarios.Core\bin\Debug\Inventarios.Core.pdb
+C:\Proyectos\Inventarios\Inventarios.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Proyectos\Inventarios\Inventarios.Core\obj\Debug\Inventarios.Core.dll
+C:\Proyectos\Inventarios\Inventarios.Core\obj\Debug\Inventarios.Core.pdb

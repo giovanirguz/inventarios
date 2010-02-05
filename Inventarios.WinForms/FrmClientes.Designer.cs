@@ -54,6 +54,10 @@
             this.columnHeader3 = new System.Windows.Forms.ColumnHeader();
             this.columnHeader4 = new System.Windows.Forms.ColumnHeader();
             this.columnHeader5 = new System.Windows.Forms.ColumnHeader();
+            this.txtApellidoMaterno = new System.Windows.Forms.TextBox();
+            this.label8 = new System.Windows.Forms.Label();
+            this.txtApellidoPaterno = new System.Windows.Forms.TextBox();
+            this.label7 = new System.Windows.Forms.Label();
             this.tlsBarraMenu.SuspendLayout();
             this.gpbAlta.SuspendLayout();
             this.gpbBusqueda.SuspendLayout();
@@ -62,7 +66,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(44, 150);
+            this.label4.Location = new System.Drawing.Point(44, 199);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(49, 13);
             this.label4.TabIndex = 23;
@@ -71,7 +75,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(44, 122);
+            this.label3.Location = new System.Drawing.Point(44, 173);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(52, 13);
             this.label3.TabIndex = 22;
@@ -80,7 +84,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(44, 95);
+            this.label2.Location = new System.Drawing.Point(65, 145);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(28, 13);
             this.label2.TabIndex = 21;
@@ -89,7 +93,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(44, 67);
+            this.label1.Location = new System.Drawing.Point(44, 64);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(44, 13);
             this.label1.TabIndex = 20;
@@ -100,18 +104,18 @@
             this.txtTelefono.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
                         | System.Windows.Forms.AnchorStyles.Left)
                         | System.Windows.Forms.AnchorStyles.Right)));
-            this.txtTelefono.Location = new System.Drawing.Point(110, 141);
+            this.txtTelefono.Location = new System.Drawing.Point(110, 195);
             this.txtTelefono.Name = "txtTelefono";
-            this.txtTelefono.Size = new System.Drawing.Size(389, 20);
+            this.txtTelefono.Size = new System.Drawing.Size(399, 20);
             this.txtTelefono.TabIndex = 5;
             // 
             // txtDireccion
             // 
             this.txtDireccion.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left)
                         | System.Windows.Forms.AnchorStyles.Right)));
-            this.txtDireccion.Location = new System.Drawing.Point(110, 115);
+            this.txtDireccion.Location = new System.Drawing.Point(110, 169);
             this.txtDireccion.Name = "txtDireccion";
-            this.txtDireccion.Size = new System.Drawing.Size(389, 20);
+            this.txtDireccion.Size = new System.Drawing.Size(399, 20);
             this.txtDireccion.TabIndex = 4;
             // 
             // txtNombre
@@ -120,16 +124,16 @@
                         | System.Windows.Forms.AnchorStyles.Right)));
             this.txtNombre.Location = new System.Drawing.Point(110, 60);
             this.txtNombre.Name = "txtNombre";
-            this.txtNombre.Size = new System.Drawing.Size(389, 20);
+            this.txtNombre.Size = new System.Drawing.Size(157, 20);
             this.txtNombre.TabIndex = 2;
             // 
             // txtRFC
             // 
             this.txtRFC.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left)
                         | System.Windows.Forms.AnchorStyles.Right)));
-            this.txtRFC.Location = new System.Drawing.Point(110, 88);
+            this.txtRFC.Location = new System.Drawing.Point(110, 142);
             this.txtRFC.Name = "txtRFC";
-            this.txtRFC.Size = new System.Drawing.Size(147, 20);
+            this.txtRFC.Size = new System.Drawing.Size(157, 20);
             this.txtRFC.TabIndex = 3;
             // 
             // txtNombreBusqueda
@@ -153,7 +157,7 @@
             this.tsbSalir});
             this.tlsBarraMenu.Location = new System.Drawing.Point(0, 0);
             this.tlsBarraMenu.Name = "tlsBarraMenu";
-            this.tlsBarraMenu.Size = new System.Drawing.Size(561, 48);
+            this.tlsBarraMenu.Size = new System.Drawing.Size(569, 48);
             this.tlsBarraMenu.TabIndex = 26;
             this.tlsBarraMenu.Text = "Menu de articulos";
             // 
@@ -211,6 +215,10 @@
             this.gpbAlta.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
                         | System.Windows.Forms.AnchorStyles.Left)
                         | System.Windows.Forms.AnchorStyles.Right)));
+            this.gpbAlta.Controls.Add(this.txtApellidoMaterno);
+            this.gpbAlta.Controls.Add(this.label8);
+            this.gpbAlta.Controls.Add(this.txtApellidoPaterno);
+            this.gpbAlta.Controls.Add(this.label7);
             this.gpbAlta.Controls.Add(this.txtNoControl);
             this.gpbAlta.Controls.Add(this.label5);
             this.gpbAlta.Controls.Add(this.txtNombre);
@@ -223,7 +231,7 @@
             this.gpbAlta.Controls.Add(this.label1);
             this.gpbAlta.Location = new System.Drawing.Point(12, 51);
             this.gpbAlta.Name = "gpbAlta";
-            this.gpbAlta.Size = new System.Drawing.Size(535, 194);
+            this.gpbAlta.Size = new System.Drawing.Size(545, 251);
             this.gpbAlta.TabIndex = 27;
             this.gpbAlta.TabStop = false;
             this.gpbAlta.Text = "Alta Cliente";
@@ -235,7 +243,7 @@
             this.txtNoControl.Location = new System.Drawing.Point(110, 34);
             this.txtNoControl.Name = "txtNoControl";
             this.txtNoControl.ReadOnly = true;
-            this.txtNoControl.Size = new System.Drawing.Size(147, 20);
+            this.txtNoControl.Size = new System.Drawing.Size(157, 20);
             this.txtNoControl.TabIndex = 1;
             // 
             // label5
@@ -320,14 +328,50 @@
             this.columnHeader5.Text = "Telefono";
             this.columnHeader5.Width = 168;
             // 
+            // txtApellidoMaterno
+            // 
+            this.txtApellidoMaterno.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left)
+                        | System.Windows.Forms.AnchorStyles.Right)));
+            this.txtApellidoMaterno.Location = new System.Drawing.Point(110, 112);
+            this.txtApellidoMaterno.Name = "txtApellidoMaterno";
+            this.txtApellidoMaterno.Size = new System.Drawing.Size(157, 20);
+            this.txtApellidoMaterno.TabIndex = 31;
+            // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.Location = new System.Drawing.Point(12, 116);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(86, 13);
+            this.label8.TabIndex = 32;
+            this.label8.Text = "Apellido Materno";
+            // 
+            // txtApellidoPaterno
+            // 
+            this.txtApellidoPaterno.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left)
+                        | System.Windows.Forms.AnchorStyles.Right)));
+            this.txtApellidoPaterno.Location = new System.Drawing.Point(110, 87);
+            this.txtApellidoPaterno.Name = "txtApellidoPaterno";
+            this.txtApellidoPaterno.Size = new System.Drawing.Size(157, 20);
+            this.txtApellidoPaterno.TabIndex = 29;
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Location = new System.Drawing.Point(12, 91);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(84, 13);
+            this.label7.TabIndex = 30;
+            this.label7.Text = "Apellido Paterno";
+            // 
             // FrmClientes
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(561, 420);
+            this.ClientSize = new System.Drawing.Size(569, 424);
             this.Controls.Add(this.tlsBarraMenu);
-            this.Controls.Add(this.gpbBusqueda);
             this.Controls.Add(this.gpbAlta);
+            this.Controls.Add(this.gpbBusqueda);
             this.MinimumSize = new System.Drawing.Size(577, 458);
             this.Name = "FrmClientes";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
@@ -371,5 +415,9 @@
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.TextBox txtNoControl;
         private System.Windows.Forms.ColumnHeader columnHeader1;
+        private System.Windows.Forms.TextBox txtApellidoMaterno;
+        private System.Windows.Forms.Label label8;
+        private System.Windows.Forms.TextBox txtApellidoPaterno;
+        private System.Windows.Forms.Label label7;
     }
 }

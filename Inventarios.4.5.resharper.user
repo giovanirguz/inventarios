@@ -16,20 +16,20 @@
       <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/d:Properties/f:Settings.Designer.cs" caret="0" fromTop="0" />
       <File id="4A3A82F3-E668-4481-9365-FE7B2D47FD4D/f:AlmacenORM.designer.cs" caret="0" fromTop="0" />
       <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmClientes.Designer.cs" caret="0" fromTop="0" />
-      <File id="4A3A82F3-E668-4481-9365-FE7B2D47FD4D/f:Cliente.cs" caret="347" fromTop="11" />
-      <File id="84C43E37-50C3-48E6-AD15-A5AC17C1E596/f:IClienteService.cs" caret="195" fromTop="8" />
-      <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/d:SingletonModels/f:ClienteForm.cs" caret="117" fromTop="4" />
-      <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmClientes.cs" caret="2605" fromTop="9" />
-      <File id="84C43E37-50C3-48E6-AD15-A5AC17C1E596/d:Impl/f:ClienteService.cs" caret="0" fromTop="0" />
-      <File id="4A3A82F3-E668-4481-9365-FE7B2D47FD4D/f:RuleViolation.cs" caret="0" fromTop="0" />
       <File id="4A3A82F3-E668-4481-9365-FE7B2D47FD4D/f:AlmacenORM.cs" caret="0" fromTop="0" />
+      <File id="9134E842-68AB-4F28-9C56-54681CB62D30/d:Validation/f:ModelStateValidation.cs" caret="0" fromTop="0" />
+      <File id="84C43E37-50C3-48E6-AD15-A5AC17C1E596/d:Impl/f:ClienteService.cs" caret="725" fromTop="19" />
+      <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmClientes.cs" caret="922" fromTop="33" />
+      <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/d:SingletonModels/f:ClienteForm.cs" caret="0" fromTop="0" />
+      <File id="4A3A82F3-E668-4481-9365-FE7B2D47FD4D/f:RuleViolation.cs" caret="0" fromTop="0" />
+      <File id="4A3A82F3-E668-4481-9365-FE7B2D47FD4D/f:Cliente.cs" caret="1041" fromTop="31" />
+      <File id="84C43E37-50C3-48E6-AD15-A5AC17C1E596/f:IClienteService.cs" caret="0" fromTop="0" />
     </RecentFiles>
     <RecentEdits>
       <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmClientes.Designer.cs" caret="0" fromTop="0" />
       <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmClientes.cs" caret="4337" fromTop="12" />
       <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmClientes.cs" caret="2758" fromTop="15" />
       <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmClientes.cs" caret="3626" fromTop="5" />
-      <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmClientes.cs" caret="1022" fromTop="10" />
       <File id="84C43E37-50C3-48E6-AD15-A5AC17C1E596/d:Impl/f:ClienteService.cs" caret="1629" fromTop="17" />
       <File id="84C43E37-50C3-48E6-AD15-A5AC17C1E596/d:Impl/f:ClienteService.cs" caret="1584" fromTop="16" />
       <File id="84C43E37-50C3-48E6-AD15-A5AC17C1E596/d:Impl/f:ClienteService.cs" caret="1388" fromTop="14" />
@@ -41,11 +41,13 @@
       <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmClientes.cs" caret="1632" fromTop="17" />
       <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmClientes.cs" caret="3524" fromTop="16" />
       <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmClientes.cs" caret="2605" fromTop="9" />
-      <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmClientes.cs" caret="4650" fromTop="9" />
       <File id="84C43E37-50C3-48E6-AD15-A5AC17C1E596/d:Impl/f:ClienteService.cs" caret="1639" fromTop="14" />
       <File id="84C43E37-50C3-48E6-AD15-A5AC17C1E596/d:Impl/f:ClienteService.cs" caret="1315" fromTop="10" />
       <File id="4A3A82F3-E668-4481-9365-FE7B2D47FD4D/f:RuleViolation.cs" caret="0" fromTop="0" />
       <File id="4A3A82F3-E668-4481-9365-FE7B2D47FD4D/f:AlmacenORM.cs" caret="89" fromTop="6" />
+      <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/d:SingletonModels/f:ClienteForm.cs" caret="0" fromTop="0" />
+      <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmClientes.cs" caret="922" fromTop="33" />
+      <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmClientes.cs" caret="4650" fromTop="33" />
     </RecentEdits>
   </RecentFiles>
   <UnitTestRunner>
