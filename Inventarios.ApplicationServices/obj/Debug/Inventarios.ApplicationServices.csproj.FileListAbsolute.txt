@@ -5,3 +5,10 @@ C:\Users\Owner\Documents\Visual Studio 2008\Projects\Inventarios\Inventarios.App
 C:\Users\Owner\Documents\Visual Studio 2008\Projects\Inventarios\Inventarios.ApplicationServices\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Owner\Documents\Visual Studio 2008\Projects\Inventarios\Inventarios.ApplicationServices\obj\Debug\Inventarios.ApplicationServices.dll
 C:\Users\Owner\Documents\Visual Studio 2008\Projects\Inventarios\Inventarios.ApplicationServices\obj\Debug\Inventarios.ApplicationServices.pdb
+C:\Net\Projects\Inventarios\Inventarios.ApplicationServices\bin\Debug\Inventarios.ApplicationServices.dll
+C:\Net\Projects\Inventarios\Inventarios.ApplicationServices\bin\Debug\Inventarios.ApplicationServices.pdb
+C:\Net\Projects\Inventarios\Inventarios.ApplicationServices\bin\Debug\Inventarios.Core.dll
+C:\Net\Projects\Inventarios\Inventarios.ApplicationServices\bin\Debug\Inventarios.Core.pdb
+C:\Net\Projects\Inventarios\Inventarios.ApplicationServices\obj\Debug\ResolveAssemblyReference.cache
+C:\Net\Projects\Inventarios\Inventarios.ApplicationServices\obj\Debug\Inventarios.ApplicationServices.dll
+C:\Net\Projects\Inventarios\Inventarios.ApplicationServices\obj\Debug\Inventarios.ApplicationServices.pdb

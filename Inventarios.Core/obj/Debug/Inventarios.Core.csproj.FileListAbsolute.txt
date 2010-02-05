@@ -4,3 +4,9 @@ C:\Users\Owner\Documents\Visual Studio 2008\Projects\Inventarios\Inventarios.Cor
 C:\Users\Owner\Documents\Visual Studio 2008\Projects\Inventarios\Inventarios.Core\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Owner\Documents\Visual Studio 2008\Projects\Inventarios\Inventarios.Core\obj\Debug\Inventarios.Core.dll
 C:\Users\Owner\Documents\Visual Studio 2008\Projects\Inventarios\Inventarios.Core\obj\Debug\Inventarios.Core.pdb
+C:\Net\Projects\Inventarios\Inventarios.Core\bin\Debug\Inventarios.Core.dll.config
+C:\Net\Projects\Inventarios\Inventarios.Core\bin\Debug\Inventarios.Core.dll
+C:\Net\Projects\Inventarios\Inventarios.Core\bin\Debug\Inventarios.Core.pdb
+C:\Net\Projects\Inventarios\Inventarios.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Net\Projects\Inventarios\Inventarios.Core\obj\Debug\Inventarios.Core.dll
+C:\Net\Projects\Inventarios\Inventarios.Core\obj\Debug\Inventarios.Core.pdb
