@@ -13,38 +13,28 @@
   <RecentFiles>
     <RecentFiles>
       <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/d:Properties/f:Settings.Designer.cs" caret="0" fromTop="0" />
-      <File id="4A3A82F3-E668-4481-9365-FE7B2D47FD4D/f:AlmacenORM.designer.cs" caret="0" fromTop="0" />
       <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmClientes.Designer.cs" caret="0" fromTop="0" />
       <File id="4A3A82F3-E668-4481-9365-FE7B2D47FD4D/f:AlmacenORM.cs" caret="0" fromTop="0" />
       <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/d:SingletonModels/f:ClienteForm.cs" caret="0" fromTop="0" />
       <File id="4A3A82F3-E668-4481-9365-FE7B2D47FD4D/f:RuleViolation.cs" caret="0" fromTop="0" />
       <File id="84C43E37-50C3-48E6-AD15-A5AC17C1E596/f:IProductoService.cs" caret="0" fromTop="0" />
-      <File id="84C43E37-50C3-48E6-AD15-A5AC17C1E596/d:Impl/f:ProductoService.cs" caret="1286" fromTop="41" />
       <File id="4A3A82F3-E668-4481-9365-FE7B2D47FD4D/f:Producto.cs" caret="0" fromTop="0" />
       <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/d:SingletonModels/f:ProductoForm.cs" caret="155" fromTop="6" />
       <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmPrincipal.cs" caret="0" fromTop="0" />
       <File id="9134E842-68AB-4F28-9C56-54681CB62D30/d:Validation/f:ModelStateValidation.cs" caret="0" fromTop="0" />
       <File id="84C43E37-50C3-48E6-AD15-A5AC17C1E596/f:IClienteService.cs" caret="0" fromTop="0" />
       <File id="4A3A82F3-E668-4481-9365-FE7B2D47FD4D/f:app.config" caret="0" fromTop="0" />
-      <File id="84C43E37-50C3-48E6-AD15-A5AC17C1E596/d:Impl/f:ClienteService.cs" caret="1511" fromTop="32" />
       <File id="4A3A82F3-E668-4481-9365-FE7B2D47FD4D/f:Cliente.cs" caret="732" fromTop="23" />
-      <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmClientes.cs" caret="2376" fromTop="24" />
-      <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmProductos.cs" caret="0" fromTop="0" />
+      <File id="84C43E37-50C3-48E6-AD15-A5AC17C1E596/d:Impl/f:ProductoService.cs" caret="801" fromTop="27" />
+      <File id="84C43E37-50C3-48E6-AD15-A5AC17C1E596/d:Impl/f:ClienteService.cs" caret="1047" fromTop="15" />
+      <File id="4A3A82F3-E668-4481-9365-FE7B2D47FD4D/f:AlmacenORM.designer.cs" caret="3869" fromTop="0" />
+      <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmProductos.cs" caret="1888" fromTop="52" />
+      <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmClientes.cs" caret="0" fromTop="0" />
     </RecentFiles>
     <RecentEdits>
-      <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmClientes.cs" caret="669" fromTop="13" />
-      <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmProductos.cs" caret="1493" fromTop="16" />
-      <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmProductos.cs" caret="791" fromTop="13" />
-      <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmProductos.cs" caret="1367" fromTop="32" />
-      <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmProductos.cs" caret="808" fromTop="12" />
-      <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmProductos.cs" caret="1089" fromTop="17" />
-      <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmClientes.cs" caret="4719" fromTop="8" />
-      <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmProductos.cs" caret="1588" fromTop="16" />
-      <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmProductos.cs" caret="1762" fromTop="20" />
-      <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmProductos.cs" caret="1390" fromTop="11" />
-      <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmProductos.cs" caret="2741" fromTop="0" />
-      <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmProductos.cs" caret="4242" fromTop="23" />
-      <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmProductos.cs" caret="4312" fromTop="54" />
+      <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmProductos.cs" caret="2593" fromTop="0" />
+      <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmProductos.cs" caret="4094" fromTop="23" />
+      <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmProductos.cs" caret="4164" fromTop="54" />
       <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmPrincipal.cs" caret="190" fromTop="9" />
       <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmPrincipal.cs" caret="1191" fromTop="32" />
       <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmPrincipal.cs" caret="1175" fromTop="23" />
@@ -55,13 +45,23 @@
       <File id="4A3A82F3-E668-4481-9365-FE7B2D47FD4D/f:Cliente.cs" caret="732" fromTop="17" />
       <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmClientes.cs" caret="1133" fromTop="20" />
       <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmClientes.cs" caret="2376" fromTop="24" />
-      <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmClientes.cs" caret="4719" fromTop="24" />
-      <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmProductos.cs" caret="4304" fromTop="73" />
-      <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmProductos.cs" caret="2612" fromTop="24" />
-      <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmProductos.cs" caret="2239" fromTop="14" />
-      <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmProductos.cs" caret="2502" fromTop="22" />
-      <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmProductos.cs" caret="2382" fromTop="18" />
-      <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmProductos.cs" caret="4312" fromTop="85" />
+      <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmProductos.cs" caret="4156" fromTop="73" />
+      <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmProductos.cs" caret="2464" fromTop="24" />
+      <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmProductos.cs" caret="2091" fromTop="14" />
+      <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmProductos.cs" caret="2354" fromTop="22" />
+      <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmProductos.cs" caret="2234" fromTop="18" />
+      <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmProductos.cs" caret="4164" fromTop="85" />
+      <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmClientes.cs" caret="1787" fromTop="10" />
+      <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmProductos.cs" caret="13" fromTop="0" />
+      <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmClientes.cs" caret="5563" fromTop="16" />
+      <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmClientes.cs" caret="2497" fromTop="18" />
+      <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmClientes.cs" caret="2497" fromTop="8" />
+      <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmClientes.cs" caret="5563" fromTop="7" />
+      <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmClientes.cs" caret="3846" fromTop="24" />
+      <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmClientes.cs" caret="3503" fromTop="17" />
+      <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmClientes.cs" caret="3503" fromTop="17" />
+      <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmClientes.cs" caret="3494" fromTop="16" />
+      <File id="84A5FE4E-DFD6-4030-829E-C9BF92232079/f:FrmClientes.cs" caret="2620" fromTop="4" />
     </RecentEdits>
   </RecentFiles>
   <UnitTestRunner>
@@ -103,9 +103,9 @@
       <Item value="name" priority="1" />
       <Item value="dataGridView1" priority="1" />
       <Item value="sender" priority="0" />
-      <Item value="txtNombre" priority="3" />
-      <Item value="txtDireccion" priority="0" />
-      <Item value="txtRFC" priority="2" />
+      <Item value="txtNombre" priority="4" />
+      <Item value="txtDireccion" priority="1" />
+      <Item value="txtRFC" priority="3" />
       <Item value="dc" priority="0" />
       <Item value="collection" priority="1" />
       <Item value="null" priority="3" />
@@ -142,7 +142,7 @@
       <Item value="gpbBusqueda" priority="2" />
       <Item value="control" priority="9" />
       <Item value="typeof" priority="1" />
-      <Item value="TextBox" priority="1" />
+      <Item value="TextBox" priority="3" />
       <Item value="GroupBox" priority="1" />
       <Item value="true" priority="6" />
       <Item value="groupbox" priority="0" />
@@ -163,11 +163,11 @@
       <Item value="list" priority="0" />
       <Item value="counter" priority="4" />
       <Item value="NoControl" priority="1" />
-      <Item value="txtNoControl" priority="2" />
+      <Item value="txtNoControl" priority="4" />
       <Item value="Int16" priority="0" />
       <Item value="Convert" priority="0" />
       <Item value="DateTime" priority="0" />
-      <Item value="txtTelefono" priority="0" />
+      <Item value="txtTelefono" priority="1" />
       <Item value="LimpiarControles" priority="0" />
       <Item value="private" priority="0" />
       <Item value="noControl" priority="0" />
@@ -185,6 +185,8 @@
       <Item value="Codigo" priority="0" />
       <Item value="ApellidoPaterno" priority="1" />
       <Item value="lsvProductos" priority="0" />
+      <Item value="txtApellidoPaterno" priority="0" />
+      <Item value="txtApellidoMaterno" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:Inventarios.Core.AlmacenORMDataContext">
       <Item value="Clientes" priority="15" />
@@ -240,8 +242,9 @@
       <Item value="ApellidoPaterno" priority="1" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
-      <Item value="Text" priority="11" />
+      <Item value="Text" priority="13" />
       <Item value="Focus" priority="0" />
+      <Item value="TabIndex" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.Int32">
       <Item value="Parse" priority="2" />
@@ -321,7 +324,8 @@
       <Item value="Visible" priority="1" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Windows.Forms.Control+ControlCollection">
-      <Item value="Find" priority="0" />
+      <Item value="Find" priority="1" />
+      <Item value="Contains" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Reflection.TypeAttributes">
       <Item value="GetType" priority="0" />

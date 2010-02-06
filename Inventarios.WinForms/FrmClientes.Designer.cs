@@ -187,6 +187,7 @@
             this.lsvClientes.TabIndex = 15;
             this.lsvClientes.UseCompatibleStateImageBehavior = false;
             this.lsvClientes.View = System.Windows.Forms.View.Details;
+            this.lsvClientes.SelectedIndexChanged += new System.EventHandler(this.lsvClientes_SelectedIndexChanged);
             this.lsvClientes.Click += new System.EventHandler(this.lsvClientes_Click);
             // 
             // columnHeader1

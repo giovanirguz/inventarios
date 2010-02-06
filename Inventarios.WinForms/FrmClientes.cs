@@ -66,20 +66,33 @@ namespace Inventarios.WinForms
 
         private void lsvClientes_Click(object sender, EventArgs e)
         {
-            var counter = 0;
+            
+        }
+
+        private void lsvClientes_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            //var counter = 0;
             gpbAlta.Visible = true;
             gpbBusqueda.Visible = false;
             tsbGuardar.Enabled = true;
             ClienteForm.IsUpdate = true;
 
-            foreach (Control control in gpbAlta.Controls)
-            {
-                if(control.GetType() == typeof(TextBox))
-                {
-                    control.Text = lsvClientes.Items[lsvClientes.FocusedItem.Index].SubItems[counter].Text;
-                    counter++;
-                }
-            }
+            txtNoControl.Text = lsvClientes.Items[lsvClientes.FocusedItem.Index].SubItems[0].Text;
+            txtNombre.Text = lsvClientes.Items[lsvClientes.FocusedItem.Index].SubItems[1].Text;
+            txtApellidoPaterno.Text = lsvClientes.Items[lsvClientes.FocusedItem.Index].SubItems[2].Text;
+            txtApellidoMaterno.Text = lsvClientes.Items[lsvClientes.FocusedItem.Index].SubItems[3].Text;
+            txtRFC.Text = lsvClientes.Items[lsvClientes.FocusedItem.Index].SubItems[4].Text;
+            txtDireccion.Text = lsvClientes.Items[lsvClientes.FocusedItem.Index].SubItems[5].Text;
+            txtTelefono.Text = lsvClientes.Items[lsvClientes.FocusedItem.Index].SubItems[6].Text;
+
+            //foreach (Control control in gpbAlta.Controls)
+            //{
+            //    if (control.GetType() == typeof(TextBox))
+            //    {
+            //        control.Text = lsvClientes.Items[lsvClientes.FocusedItem.Index].SubItems[counter].Text;
+            //        counter++;
+            //    }
+            //}
         }
 
         #region Form Event Handlers
